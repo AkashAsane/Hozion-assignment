@@ -14,7 +14,7 @@ This project consists of two tasks:
 1. **Hello Component**  
    Import the component and pass a `name` prop to display the greeting. Example:
    ```jsx
-   <HelloComponent name="xyz" />
+   <Task1 name="xyz" />
    ```
 
 2. **UI Box**  
